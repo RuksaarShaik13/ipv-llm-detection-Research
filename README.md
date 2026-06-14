@@ -7,10 +7,10 @@ This repository documents the research on detecting Intimate Partner Violence (I
 
 Detection of Intimate Partner Violence with Large Language Models includes
 
-• Evaluated prompting, promting strategies, retrieval-augmented generation, embedding optimization, and LoRA-based domain adaptation for IPV detection.
-• Benchmarked open-weight and proprietary LLMs across physical, emotional, and sexual abuse categories.
-• Developed domain-adapted mid-sized LLMs that outperformed larger untuned models.
-• Repository contains methodology, architecture, and key findings. Full implementation will be released following publication.
+* Evaluated prompting, promting strategies, retrieval-augmented generation, embedding optimization, and LoRA-based domain adaptation for IPV  detection.
+* Benchmarked open-weight and proprietary LLMs across physical, emotional, and sexual abuse categories.
+* Developed domain-adapted mid-sized LLMs that outperformed larger untuned models.
+* Repository contains methodology, architecture, and key findings. Full implementation will be released following publication.
 
 ---
 
